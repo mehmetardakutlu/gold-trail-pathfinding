@@ -3,7 +3,8 @@
 A grid-based pathfinding and optimization project implemented in Java using the StdDraw library. This project consists of two distinct parts: the **Standard Part** (Sequential Pathfinding) and the **Bonus Part** (Traveling Salesman Problem Solver).
 
 ## Visualization
-<img width="748" height="750" alt="Ekran görüntüsü 2025-05-11 153500" src="https://github.com/user-attachments/assets/e2487165-7db8-408f-b3f1-9eb85d7ac589" />
+<img width="748" height="750" alt="Ekran görüntüsü 2025-05-11 153500" src="https://github.com/user-attachments/assets/1b3d1072-57cc-4b81-82e4-646ee31002ac" />
+
 
 ## Project Modes
 
